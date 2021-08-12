@@ -1,7 +1,7 @@
 
  
-/* Copyright (C) 2020 Safeerbot.
-Edited by Amalser.
+/* Copyright (C) 2020 amalser.
+Edited by amalser.
 */
 
 const Asena = require('../events');
