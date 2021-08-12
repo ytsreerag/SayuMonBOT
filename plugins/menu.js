@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━🧔🏻Safeer🧔🏻━━━━━⛦
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Safeer 𝐛𝐨𝐭.
   
-*http://ẉa.me/➳Amal*
+*http://ẉa.me/+919048699165?text=Hi*
 ■□■□■□■□■□■□■□■□■□■□
 💘 *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* 💎
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
