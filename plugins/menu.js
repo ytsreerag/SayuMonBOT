@@ -12,7 +12,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg";
+    r_text[0] = "![IMG-20210812-WA0000](https://user-images.githubusercontent.com/88830491/129213758-45a7be53-d5e5-4be3-9fde-698e0560520a.jpg)
+
+";
     
     
     var i = Math.floor(1*Math.random())
