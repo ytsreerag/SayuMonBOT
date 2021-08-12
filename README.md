@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/safeersafi/SAFEER-BOT-OFFICIAL.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/safeer07/SAFEERBOT)
      </div>
 <br>
 <br >
@@ -46,9 +46,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   SAFEER![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
- https://github.com/safeersafi/SAFEER-BOT-OFFICIAL.git |  
+ https://github.com/safeer07/SAFEERBOT |  
 ----|
-[SAFEER BOT OFFICIAL ](https://github.com/safeersafi/SAFEER-BOT-OFFICIAL.git)  |
+[SAFEER BOT OFFICIAL ](https://github.com/safeer07/SAFEERBOT)  |
 Base, Bug Fixes, Modules | 
 
 
