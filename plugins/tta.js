@@ -13,7 +13,7 @@ const Config = require('../config');
 
 // List
 const UA_DESC = "Converts sound recording to an audio File please wait."
-const UA_NEEDREPLY = "*Must Reply to a sound recording  allkkil nirthi poonam*"
+const UA_NEEDREPLY = "*Must Reply to a sound recording  allenkil nirthi poonam mister*"
 const UA_PROC = "```Converting Sound recording To an Audio File just wait```"
 
     Asena.addCommand({pattern: 'unaudio', fromMe: true, desc: UA_DESC}, (async (message, match) => {    
