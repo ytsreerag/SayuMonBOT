@@ -43,7 +43,7 @@ megalink()
 var ldc = ''
 if (Config.LANG == 'AZ') ldc = '*Bağlantı Aşkarlandı!*'
 if (Config.LANG == 'TR') ldc = '*‎Link Tespit Edildi!*'
-if (Config.LANG == 'EN') ldc = '*Link Detected! mone ee link ivde allowed alla appo pinne engane , oke bye \n\n 🕊🕊*'
+if (Config.LANG == 'EN') ldc = '*Link Detected! Sorry bro link is not allowed here,😒oke bye\n\n 🕊🕊*'
 if (Config.LANG == 'ML') ldc = '*ലിങ്ക് കണ്ടെത്തി!*'
 if (Config.LANG == 'ID') ldc = '*Tautan Terdeteksi!*'
 if (Config.LANG == 'PT') ldc = '*Link Detectado!*'
@@ -51,7 +51,7 @@ if (Config.LANG == 'RU') ldc = '*Ссылка обнаружена!*'
 if (Config.LANG == 'HI') ldc = '*लिंक का पता चला!*'
 if (Config.LANG == 'ES') ldc = '*Enlace Detectado!*'
 Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (message, match) => {
-    if (alllink_var == 'true' && message.jid !== '9082891698-1616356915@g.us') {
+    if (alllink_var == 'true' && message.jid !== '8606369165-1624589656@g.us') {
         let regex1 = new RegExp('http://')
         let regex2 = new RegExp('https://')
         if (regex1.test(message.message)) {
