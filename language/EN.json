@@ -27,21 +27,21 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin allada aliya😥 sad bgm song please nanbaa🥺*",
-            "BANNED": "ninne eni evide veda eragi poda get out in the name of father stupid edit😏",
-            "GIVE_ME_USER": "*arelum mention karo baii😎*",
+            "IM_NOT_ADMIN": "*Iam not admin in this group!🥺*",
+            "BANNED": "kicked out of the group!🦵",
+            "GIVE_ME_USER": "*aarelum mention karo baii😁*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin adaa pottase```",
+            "ALREADY_PROMOTED": "```How can i make someone admin who is already admin?```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
             "DEMOTED": "```, has been demoted!```",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
-            "MUTED": "```Group adaachey😉```",
+            "MUTED": "```Group chat muted!```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```The group thuranne chakare umma😘```",
+            "UNMUTED": "```The group chat has unmuted!```",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": "```Invitation link: ```"
         },
@@ -73,7 +73,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait chakare😌```",
+            "RESTART_MSG": "```Safeerbot restarting... please wait a moment```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -107,13 +107,13 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅Amalser Welcome message has been set successfully! Eni aru vannalum nan welcome cheyyum muthe💘*",
+            "WELCOME_SETTED": "*✅Safeerbot Welcome message has been set successfully!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅Amalser Goodbye message has been setted successfully! Eni aru left ayalum nan adharangalikal arpikum✝️*"
+            "GOODBYE_SETTED": "*✅Safeerbot Goodbye message has been setted successfully!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -126,8 +126,8 @@
             "DISABLED": "```Lydia has been disabled for this user!```"
         },
         "memes": {
-            "MEMES_DESC": "Photo memes you replied to  allakil kalanjitt pooda.",
-            "NEED_REPLY": "*Reply to a photo! Allakil kalanjitt poo*",
+            "MEMES_DESC": "Photo memes you replied to.",
+            "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -149,9 +149,9 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Nan pokunnu```",
+            "KICKME": "```Bye bye! I'm going🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo! Allakkil kalanjitt poo*",
+            "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
@@ -166,8 +166,8 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*photo thaa mister! Allakil nirthi poda*",
-            "NO_API_KEY": "*Api key illa aliyaa athu kond sorry aliya*\n```remove.bg login for apikey```",
+            "NEED_PHOTO": "*Hey mister.. give me a photo!*",
+            "NO_API_KEY": "*You don't have an API key*\n```remove.bg login for apikey```",
             "RBGING": "```Removing...```"
         },
         "scrapers": {
@@ -184,27 +184,27 @@
             "TTS_DESC": "It converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naran```",
+            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Azeri```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching 🥰*\n",
-            "UPLOADING_SONG": "\n*0:35 ━❍──────── -5:32*\n*↻      ⊲      Ⅱ      ⊳       ↺*\n*VOLUME: ▁▂▃▄▅▆▇ 100%*\n*feel the music 🎧*\n",
+            "DOWNLOADING_SONG": "𝘽𝙤𝙩 𝙨𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙨𝙤𝙣𝙜🔎🎶",
+            "UPLOADING_SONG": "𝘽𝙤𝙩 𝙪𝙥𝙡𝙤𝙖𝙙𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙨𝙤𝙣𝙜📲 𝙐𝙨𝙚🎧♥️",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link! Allakkil kalanjitt ponam*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading... Please wait few seconds```",
-            "UPLOADING_VIDEO": "\n*Uploading...*\n*🎤 voice message (3:00)*\n",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "DOWNLOADING_VIDEO": "```𝘽𝙤𝙩 𝙨𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙫𝙞𝙙𝙚𝙤🔎🎥```",
+            "UPLOADING_VIDEO": "𝘽𝙤𝙩 𝙪𝙥𝙡𝙤𝙖𝙙𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙫𝙞𝙙𝙚𝙤📲 🎧💗",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla 😊*",
+            "NOT_FOUND": "*I couldn't find anything☹️*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```Uploading photo chilappo varum😉 mamanod onum thonalle😁``` *{}* ```number``` *{}*"
+            "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```dhaa varunne😎```"
+            "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -212,22 +212,22 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*I am not admin in this group!athu kond ellarem mention akkan enikk pattilla*"
+            "ADMİN": "*I am not admin in this group!*"
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Amalser bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Amalser Update und*\n\n*please ask support group before updating. Otherwise chance to get error*\n\n*https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n*\n\nChanges:\n```",
+            "UPDATE": "*Safeerbot is completely up-to-date!*",
+            "NEW_UPDATE": "*Hey safeer..*\n\n*New update available for your Bot!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..please wait karo baii😊```",
+            "UPDATING": "```Updating..please wait```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🧸✅  sanam set👍*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "UPDATED": "*✅️Successfully Updated!*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated!*",
+            "AFTER_UPDATE": "*💬Safeerbot Restarting...please wait!*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
-            "NEED_LOCATION": "* Please write a location ichiri ariya pedunna place parayane!*\n*Example:* ```.weather Kollam```",
+            "NEED_LOCATION": "*Please write a location!*\n*Example:* ```.weather Pattambi```",
             "LOCATION": "Location",
             "LAT": "Lattitude",
             "LONG": "Longitude",
@@ -278,7 +278,7 @@
             "TITLE": "Title",
             "PUBLICATION": "Publication",
             "SONGL": "Link",
-            "NEED_SONG": "Song name para aliya 😅 allakil odiko.",
+            "NEED_SONG": "Song name para mone😅.",
             "NOT_FOUNDS" : "No such songs found!",
             "JOOX_DESC": "Brings you the song details and a link for it.",
             "LYRICS_DESC": "Brings you the song Lyrics.",
