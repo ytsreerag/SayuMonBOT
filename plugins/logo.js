@@ -395,7 +395,7 @@ Asena.addCommand({pattern: 'safeer', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/robotr2d2?text=${match[1]}&APIKEY=7f40eb6965e90926`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbotbot```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbot```'})
 
     }));
 
@@ -405,7 +405,7 @@ Asena.addCommand({pattern: 'safeer', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/toxic?text=${match[1]}&APIKEY=7f40eb6965e90926`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbotbot```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbot```'})
 
     }));
 
@@ -415,7 +415,7 @@ Asena.addCommand({pattern: 'safeer', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/rainbowequalizer?text=${match[1]}&APIKEY=917058a2392ad776`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbotbot```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbot```'})
 
     }));
 
@@ -425,7 +425,7 @@ Asena.addCommand({pattern: 'safeer', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/orangeglass?text=${match[1]}&APIKEY=7f40eb6965e90926`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbotbot```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbot```'})
 
     }));
 
@@ -449,7 +449,7 @@ Asena.addCommand({pattern: 'safeer', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/marvelstudios?text=${topText}&text2=${bottomText}&APIKEY=c809c9b2f07400c2`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbotbot```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Safeerbot```'})
 
     }));
 
@@ -481,7 +481,7 @@ Asena.addCommand({pattern: 'silk ?(.*)', fromMe: false, dontAddCommandList: true
 
     var webimage = await axios.get(`https://videfikri.com/api/textmaker/silk/?text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made By Safeerbotbot```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made By Safeerbot```'})
 
     }));
 
