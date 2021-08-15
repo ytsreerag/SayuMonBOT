@@ -13,7 +13,10 @@ Click WA logo to Join Support Group 👇
   <div align="center">
        
 ## THANK YOU EVERYONE🤗
-
+   ## it's Safeer 
+   ## WhatsApp me for your any doubts 
+             👇
+   http://Wa.me/+919048699165?text=Hi
     
 ## setup
 <div align="center">
