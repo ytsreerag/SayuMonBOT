@@ -13,7 +13,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
        
 ## THANK YOU EVERYONE🤗
-   ## it's Safeer 
+   ## it's me Safeer 
    ## WhatsApp me for your any doubts 
              👇
    http://Wa.me/+919048699165?text=Hi
