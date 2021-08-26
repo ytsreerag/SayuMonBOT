@@ -12,7 +12,7 @@ const Lang = Language.getString('admin');
 const mut = Language.getString('mute');
 const fs = require('fs');
 
-async function checkImAdmin(message, user = message.client.user.jid) {
+async function checkImAdmin(message, user = message.data.participant) {
     var grup = await message.client.groupMetadata(message.jid);
     var sonuc = grup['participants'].map((member) => {
         
