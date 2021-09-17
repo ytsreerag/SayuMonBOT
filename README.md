@@ -2,30 +2,30 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+SAFEER+BOT+codded+by+SAFEER.."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+SAYOOJ+BOT+codded+by+SAYOOJ.."
             alt="Typing SVG"
         />
     </a>
 </p>
 <div align="center">
-SAFEER BOT OFFICIAL 😎
+SAYOOJ BOT OFFICIAL 😎
 
 <div align="center">
  
-![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
+![IMG-20210731-WA0000](https://i.imgur.com/zjGsfgd.jpeg)
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/ENmjIbmy46qHxtAYVn0HnC)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EwSIdQm4P3D3BpwkcqRRJB)
   <div align="center">
        
 ## THANK YOU EVERYONE🤗
-   ## it's me Safeer 
+   ## it's me Sayooj 
    ## WhatsApp me for your any doubts 
              👇
-   http://Wa.me/+919048699165?text=Hi
+   http://Wa.me/+919207168374?text=Hi
     
 ## setup
 <div align="center">
@@ -43,7 +43,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### SAFEER BOT OFFICIAL 😎
+### SAYOOJ BOT OFFICIAL 😎
 
 
 ### ⚠️ Warning! 
@@ -57,8 +57,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  SAFEER![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
+  SAYOOJ![IMG-20210731-WA0000](https://i.imgur.com/3iJ9PV1.jpeg)
  https://github.com/safeer07/SAFEERBOT |  
 ----|
-[SAFEER BOT OFFICIAL ](https://github.com/safeer07/SAFEERBOT)  |
+[SAYOOJ BOT OFFICIAL ](https://github.com/safeer07/SAFEERBOT)  |
 Base, Bug Fixes, Modules | 
