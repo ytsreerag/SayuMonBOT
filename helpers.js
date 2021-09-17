@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Safeer*:  ```" + msg + "```"
+    return "✅ *Sayooj*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Safeer*:  ```" + msg + "```"
+    return "🛑 *Sayooj*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Safeer*:  ```" + msg + "```"
+    return "⏺️ *Sayooj*:  ```" + msg + "```"
 }
 
 
