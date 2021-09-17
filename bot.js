@@ -132,7 +132,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Safeerbot working perfectly 🤗')
+            chalk.green.bold('Sayoojbot working perfectly 🤗')
         );
     });
     
@@ -244,7 +244,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'SAFEERBOT_🧔🏻_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'SAYOOJBOT_🧔🏻_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
