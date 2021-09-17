@@ -34,7 +34,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sayubot21/SayuMonBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sayubot21/SayuMonBOT)
      </div>
 <br>
 <br >
@@ -58,7 +58,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   SAYOOJ![IMG-20210731-WA0000](https://i.imgur.com/3iJ9PV1.jpeg)
- https://github.com/safeer07/SAFEERBOT |  
+ https://github.com/Sayubot21/SayuMonBOT |  
 ----|
-[SAYOOJ BOT OFFICIAL ](https://github.com/Sayubot21/SayuMonBot)  |
+[SAYOOJ BOT OFFICIAL ](https://github.com/Sayubot21/SayuMonBOT)  |
 Base, Bug Fixes, Modules | 
