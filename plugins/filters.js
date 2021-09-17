@@ -350,7 +350,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mentio
 
     }
 
-const array = ['love','list','machu','menu','mute','nee','onn','oo','pa','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','la','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','a','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Hi','sad','don','Tripp','bye','escape','Group','truth','nice','let','get','img','Hello','list','hm','Fuck','pottan','update','menu','oh','alive','sad','yt','photo','nokk','nude','oo','myr','kali','Remove','run','bot','Erorr','lost','podey','copy','Da','come','sex','sed','help','sorry','not','podi','nee','done','oru','Sayooj','ser','Di','Dey']
+const array = ['love','list','machu','menu','mute','nee','onn','oo','pa','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','la','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','a','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Hi','sad','don','Tripp','bye','escape','Group','truth','nice','let','get','img','Hello','list','hm','Fuck','pottan','update','oh','alive','yt','photo','nokk','nude','myr','kali','Remove','run','bot','Erorr','lost','podey','copy','come','sex','help','sorry','not','podi','done','oru','Sayooj','ser','Di','Dey']
 a]
 
 array.map( async (a) => {
