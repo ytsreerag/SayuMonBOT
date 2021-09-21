@@ -296,7 +296,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./upload/mention.
 
         }
 
-const array = ['ho','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','help','oii','on','one','vanne','vannu','kozhi','set','Fuck','love','broke','ohoo','Bye','pne','left','don','onn','stop','setta','entry','muth','Hi','chaya','mp3']
+const array = ['ho','she','mention','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','help','oii','on','one','vanne','vannu','kozhi','set','Fuck','love','broke','ohoo','Bye','pne','left','don','onn','stop','setta','entry','muth','Hi','chaya','mp3']
 
 array.map( async (a) => {
 
